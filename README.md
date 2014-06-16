@@ -1,3 +1,72 @@
+#Guide
+Init slide
+- About me
+  - Where i work
+- Lets start
+  - How is a game composed
+    - Entities / Models
+    - Input / Output feedback to user
+    - Sprites
+      - Making a sprite
+    - Obtaining free assets, music, etc
+
+  - What is Html5
+    - Html , js , css
+  - Types of renders 
+    - Canvas
+    - WebGl
+    - Dom elements
+  
+  - Making a game in  JavaScript
+    - Libraries
+      - Crafty
+      - Lime
+      - Impact
+      - Pixi
+      - PandaJS
+      - Goo
+      - Etc
+    - Custom core
+    - Non programing tools
+      - Wimi 5
+      - Goo Create
+
+  
+  - For non developers 
+    - Online tools
+      - Wimi5 
+      - Stencyl
+      - Construct 2
+      - Goo Create
+      - Sploder
+      - Game maker studio
+    - Demo time!
+
+  - For developers
+    - A game in canvas
+      - The request animation frame or main loop
+      - Updating the sprite
+      - Moving the entity, use radians and math!
+      - User input
+      - Handling collisions / QuadTree
+      - The localStorage
+    - Deployment and build
+      - Grunt / Gulp
+      - Jenkins
+      - Travis CI
+    - Embedding as an app
+      - Cordova / Phonegap
+      - CrossWalk Project
+      - CocoonJS
+      - Node Webkit
+    - Demo time!
+    - Show me the code!
+    - Resources available for free
+
+
+
+
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
